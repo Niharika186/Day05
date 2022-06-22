@@ -1,2 +1,2 @@
 # Day05
-Sting_methods_part1
+Sting_methods_class practice
